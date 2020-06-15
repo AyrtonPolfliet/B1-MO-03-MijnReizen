@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ReisApp.Properties
+namespace MijnReizen.solution.Properties
 {
 
 

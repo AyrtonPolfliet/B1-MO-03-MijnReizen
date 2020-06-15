@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4B440863-98C6-4BFB-A142-7D06FDC7C1B4}</ProjectGuid>
+    <ProjectGuid>{FDA90CDF-660D-4E8E-AC6E-BD160E5632D7}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>ReisApp</RootNamespace>
-    <AssemblyName>ReisApp</AssemblyName>
+    <RootNamespace>MijnReizen.solution</RootNamespace>
+    <AssemblyName>MijnReizen.solution</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
