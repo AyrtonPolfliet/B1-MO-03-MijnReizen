@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MijnReizen.Wpf", "MijnReizen.Wpf\MijnReizen.Wpf.csproj", "{849E0816-B0F4-46EB-B045-333DEB85D60C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MijnReizen.DLL", "MijnReizen.DLL\MijnReizen.DLL.csproj", "{59796D0C-7E6E-46AD-85C0-B62E9B82440E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MijnReizen.BLL", "MijnReizen.DLL\MijnReizen.BLL.csproj", "{59796D0C-7E6E-46AD-85C0-B62E9B82440E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

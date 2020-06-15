@@ -102,9 +102,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MijnReizen.DLL\MijnReizen.DLL.csproj">
+    <ProjectReference Include="..\MijnReizen.DLL\MijnReizen.BLL.csproj">
       <Project>{59796d0c-7e6e-46ad-85c0-b62e9b82440e}</Project>
-      <Name>MijnReizen.DLL</Name>
+      <Name>MijnReizen.BLL</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup />
